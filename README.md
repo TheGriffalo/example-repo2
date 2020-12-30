@@ -1,0 +1,2 @@
+# GitTest
+Checking with PyCharm
